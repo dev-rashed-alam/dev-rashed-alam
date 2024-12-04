@@ -46,9 +46,8 @@ An end-to-end solution for managing overseas production, from design to shipment
 ---
 
 ## 💼 Let's Connect!  
-- 🌐 [Portfolio](https://your-portfolio.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 🐦 [Twitter](https://twitter.com/your-profile)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rashedalam99)  
+- 📧 Email: dev.rashedalam@gmail.com(mailto:dev.rashedalam@gmail.com)  
 
 ---
 
