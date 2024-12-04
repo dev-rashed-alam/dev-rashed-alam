@@ -32,11 +32,23 @@ Welcome to my GitHub profile! I am a **Frontend Engineer** with extensive experi
 
 ## 🏆 Key Projects  
 
+### 🔹 **Smart Bank Liability Workflow**  
+A financial workflow system for automating operations across core banking, Islamic banking, and other systems.  
+- Developed a reusable form-maker engine with custom validation.  
+- Integrated APIs to ensure seamless communication between systems.  
+- Collaborated with stakeholders to deliver user-centric solutions.  
+
 ### 🔹 **Digital Fashion Platform**  
 An end-to-end solution for managing overseas production, from design to shipment.  
 - Built custom components for Buyer, Supplier, and In-house panels.  
 - Developed real-time collaboration features for designers and stakeholders.  
-- Leveraged a lightweight design tool to streamline workflows for fashion brands.  
+- Leveraged a lightweight design tool to streamline workflows for fashion brands.
+
+### 🔹 **International Standard Book Name (ISBN)**  
+A system for generating and managing ISBNs for publishers and authors.  
+- Developed APIs for QR code, barcode, and OTP integration.  
+- Built role-based routing and implemented JWT authentication.  
+- Enhanced system stability by resolving bugs and optimizing features. 
 
 ### 🔹 **Design Automation Tool for RMG Industry**  
 - Created a design tool using Canvas and JavaScript for the RMG industry.  
