@@ -47,7 +47,7 @@ An end-to-end solution for managing overseas production, from design to shipment
 
 ## 💼 Let's Connect!  
 - 💼 [LinkedIn](https://www.linkedin.com/in/rashedalam99)  
-- 📧 Email: dev.rashedalam@gmail.com(mailto:dev.rashedalam@gmail.com)  
+- 📧 Email: [dev.rashedalam@gmail.com](mailto:dev.rashedalam@gmail.com)   
 
 ---
 
