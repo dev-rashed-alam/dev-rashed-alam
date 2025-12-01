@@ -1,9 +1,10 @@
 # 👋 Hi, I'm **Rashed Alam**  
-### 🚀 Senior Frontend Engineer | React.js | Redux | TypeScript | Spring Boot
+### 🚀 Software Engineer | React.js | Redux | JavaScript | Java| Spring Boot
 
-I’m a Frontend-focused Software Engineer with **5+ years of experience** building scalable web platforms, reusable component libraries, and high-performance enterprise applications. Skilled in React.js, Redux Toolkit, RTK Query, and integrating frontend systems with microservices.
-
-I focus on clean architecture, performance, and delivering production-ready features that scale.
+Frontend-focused Software Engineer with 5+ years of experience building scalable web platforms using
+React, Redux, RTK Query, and Java, Spring Boot. Adept at leading frontend teams, developing reusable
+component libraries, and integrating complex systems. Proven ability to improve development workflows
+and collaborate across product, design, and engineering teams.
 
 ---
 
@@ -17,7 +18,7 @@ I focus on clean architecture, performance, and delivering production-ready feat
 
 ### 🏗 Backend & System Knowledge  
 - Java, Spring Boot, Spring AI  
-- REST APIs, Microservices  
+- REST APIs, RAG  
 - PostgreSQL, MySQL  
 
 ### 🛠 Tools & DevOps  
@@ -35,7 +36,7 @@ I focus on clean architecture, performance, and delivering production-ready feat
 - Collaborating closely with backend teams using Spring Boot & microservices.  
 
 ### **Software Engineer — Business Accelerate BD Ltd (2019–2021)**  
-- Developed banking and publishing systems using React.js, Laravel, and MySQL.  
+- Developed banking and publishing systems using React.js, Spring Boot, and Oracle.  
 - Built complex dynamic form engines and integrated secure API workflows.  
 - Managed production deployments and optimized system performance.
 
@@ -67,10 +68,10 @@ React.js • Spring Boot • Oracle
 ---
 
 ### 🔹 **International Standard Book Number (ISBN) System**  
-React.js • Node.js • MySQL  
+React.js • PHP • Laravel • PHP 
 A system for generating and managing ISBNs for publishers and authors.  
 - Developed APIs for **QR code, barcode, and OTP integration**.  
-- Implemented **JWT authentication** and role-based routing.  
+- Implemented **JWT authentication** and role-based authorizations.  
 - Improved system reliability by resolving bugs and optimizing workflow features.
 
 ---
