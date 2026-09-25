@@ -1,136 +1,229 @@
-Md. Rashed Alam
+<div align="center">
 
-Full-Stack Engineer · Software Architect · AI Engineer
+# Md. Rashed Alam
 
-Dhaka, Bangladesh
+### Full-Stack Engineer | Product Engineer | Software Engineer
 
-I am a Full-Stack Engineer with 7+ years of professional experience designing and building production-grade software systems. My work spans backend engineering, frontend architecture, AI-powered applications, system design, and enterprise workflow automation.
+Building scalable web applications, enterprise systems, and AI-powered products.
 
-I currently work at Nitex Solutions Ltd, where I design and deliver software platforms supporting complex fashion production workflows. My recent work includes AI-powered costing, AI-assisted fashion design, CRM systems, micro-frontend architecture, and shared engineering platforms.
+<p>
+  <a href="mailto:dev.rashedalam@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/dev-rashed-alam">LinkedIn</a> •
+  <a href="https://github.com/dev-rashed-alam">GitHub</a>
+</p>
 
-I enjoy solving complex engineering problems and building systems that are scalable, maintainable, reliable, and aligned with real business requirements.
+</div>
 
-About
+---
 
-7+ years of professional software engineering experience
+## 👨‍💻 About Me
 
-Experienced in full-stack application development and system design
+I'm a **Full-Stack Engineer with 6+ years of professional experience** building
+production-grade applications across enterprise software, financial systems,
+business automation, and AI-powered products.
 
-Building AI-powered applications using modern AI and backend technologies
+Currently, I work at **Nitex Solutions Ltd**, where I build platforms that
+support the fashion and RMG industry across product design, costing,
+manufacturing, and shipment workflows.
 
-Strong focus on Java, Spring Boot, TypeScript, React, and PostgreSQL
+My engineering interests include **AI engineering, full-stack development,
+system design, scalable frontend architecture, enterprise applications,
+and developer productivity**.
 
-Experienced in designing micro-frontend architectures and reusable component systems
+I enjoy turning complex business requirements into simple, scalable, and
+maintainable software.
 
-Experience leading and mentoring engineering teams
+---
 
-Interested in distributed systems, software architecture, AI engineering, and developer productivity
+## 💼 Experience
 
-Professional Experience
-Full-Stack Engineer — Nitex Solutions Ltd
+### Full-Stack Engineer — Nitex Solutions Ltd
 
-December 2021 – Present · Dhaka, Bangladesh
+**December 2021 – Present · Dhaka, Bangladesh**
 
-Designed and delivered three production-grade platforms covering Admin, Buyer, and Factory workflows across the fashion production lifecycle.
+- Designed and delivered production-grade **Admin, Buyer, and Factory
+  platforms** supporting end-to-end fashion production workflows.
+- Architected an **AI-powered product costing platform** that reduced costing
+  time by **90%+** and enabled real-time cost visibility.
+- Built and productionized an **AI-driven design system** capable of generating
+  **100+ fashion concepts per run**.
+- Implemented **Brand DNA-based similarity scoring** for evaluating and ranking
+  generated fashion concepts.
+- Reduced manual design iteration cycles by approximately **60%**.
+- Built and enhanced **CRM modules** for customer management, order tracking,
+  and internal operations.
+- Established a **micro-frontend architecture** and shared component system
+  to improve code reuse, maintainability, and development velocity.
+- Lead and mentor a **frontend team of 3 engineers**, including architecture
+  decisions, code reviews, technical decisions, and engineering practices.
 
-Architected an AI-powered product costing platform that automated complex pricing calculations, reducing costing time by more than 90% and providing real-time cost visibility.
+### Associate Software Engineer — Business Accelerate BD Ltd
 
-Designed and productionized an AI-driven fashion design system capable of generating 100+ fashion concepts per run and ranking concepts using Brand DNA–based similarity scoring.
+**May 2019 – November 2021 · Dhaka, Bangladesh**
 
-Reduced manual design iteration cycles by approximately 60% through AI-assisted design workflows.
+- Developed frontend and backend systems for a centralized **financial
+  workflow platform** supporting **2,000+ internal users**.
+- Worked across **core banking, Islamic banking, inventory, card management,
+  and operational workflows**.
+- Implemented real-time workflow notifications and status tracking,
+  reducing processing delays by approximately **60%**.
+- Built dynamic data-driven forms with validation and approval workflows,
+  reducing manual processing time by approximately **70%**.
+- Designed backend services for the national **ISBN distribution process**,
+  managing **1,000+ ISBN allocations per month**.
+- Implemented **QR code and barcode generation** for ISBN tracking and
+  verification.
+- Reduced manual ISBN tracking effort by approximately **80%**.
 
-Designed and developed CRM capabilities covering customer management, order tracking, and internal operational workflows.
+---
 
-Led and mentored a 3-member frontend engineering team, responsible for architecture, code reviews, technical decisions, and engineering standards.
+## 🤖 AI Engineering
 
-Established a micro-frontend architecture and shared component system to improve reuse, maintainability, and development velocity across product teams.
+A significant part of my current work involves applying AI to complex
+business workflows and building intelligent systems that improve
+productivity.
 
-Associate Software Engineer — Business Accelerate BD Ltd
+### AI-Powered Product Costing
 
-May 2019 – November 2021 · Dhaka, Bangladesh
+Designed and productionized an AI-powered costing platform for automating
+complex product pricing workflows.
 
-Developed frontend and backend services for a centralized financial workflow platform integrating core banking, Islamic banking, inventory, card management, and deliverables.
+**Impact**
 
-Built systems supporting more than 2,000 internal users across banking and operational workflows.
+- **90%+ reduction** in costing time
+- Real-time costing visibility
+- Automated complex pricing calculations
+- Improved consistency and scalability of the costing workflow
 
-Implemented real-time workflow notifications and status tracking, reducing processing delays by approximately 60%.
+---
 
-Designed dynamic, data-driven forms with validation and approval workflows, reducing manual processing time by approximately 70%.
+## 🛠️ Tech Stack
 
-Developed backend services for automating the national ISBN distribution process, supporting more than 1,000 ISBN allocations per month.
+### Languages
 
-Integrated QR code and barcode generation for ISBN tracking and verification, reducing manual tracking effort by approximately 80%.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-Technical Skills
-Languages
+### Frontend
 
-Java JavaScript TypeScript PHP
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
-Backend
+**ReactJS · ReduxJS · Redux Toolkit · TypeScript · JavaScript**
 
-Spring Boot Spring AI Spring Security Laravel
+### Backend
 
-Frontend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-React Redux Redux Toolkit
+**Java · Spring Boot · Spring AI · Spring Security · Laravel**
 
-Databases & Search
+### Databases
 
-PostgreSQL MySQL MongoDB Elasticsearch
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
-DevOps & Infrastructure
+**PostgreSQL · MySQL · MongoDB · Elasticsearch**
 
-Docker Nginx Git Bitbucket
+### DevOps & Tools
 
-Engineering
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
 
-System Design Design Patterns SOLID Principles Micro-Frontend Architecture API Design Software Architecture
+**Docker · Nginx · Git · Bitbucket**
 
-Areas of Expertise
+---
 
-Software Architecture
-Designing maintainable application architectures, defining service boundaries, and establishing patterns that support long-term product evolution.
+## 🏗️ Engineering & Architecture
 
+- System Design
+- Design Patterns
+- SOLID Principles
+- Micro-Frontend Architecture
+- Component-Based Architecture
+- Enterprise Application Development
+- REST API Development
+- Scalable Frontend Architecture
+- Backend Service Development
+- AI-Powered Application Development
+- Technical Leadership & Mentoring
+
+---
+
+## 🎯 Current Focus
+
+```text
 AI Engineering
-Building practical AI-powered applications that integrate intelligent capabilities into real-world business workflows.
+├── AI-powered Applications
+├── Intelligent Automation
+├── LLM-based Systems
+└── AI-assisted Business Workflows
+
+Software Engineering
+├── System Design
+├── Enterprise Architecture
+├── Micro-Frontends
+└── Scalable Applications
 
 Full-Stack Development
-Developing applications across the complete stack, from database and backend services to APIs and modern frontend applications.
+├── React / TypeScript
+├── Java / Spring Boot
+├── REST APIs
+└── Database Architecture
+```
 
-Frontend Architecture
-Designing scalable React applications, micro-frontend systems, shared component libraries, and frontend engineering standards.
+📊 GitHub Statistics
 
-Enterprise Systems
-Building workflow-driven systems for financial, manufacturing, operational, and business processes.
+<div align="center">
 
-Engineering Leadership
-Mentoring engineers, conducting code reviews, making architectural decisions, and establishing engineering best practices.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-rashed-alam&hide_border=true&theme=transparent" height="180" />
 
-Selected Impact
-Area	Impact
-AI Product Costing	90%+ reduction in costing time
-AI Fashion Design	100+ concepts generated per run
-Design Workflow	~60% reduction in manual iteration
-Financial Workflows	2,000+ internal users
-Workflow Processing	~60% reduction in processing delays
-Dynamic Forms	~70% reduction in manual processing time
-ISBN Automation	1,000+ allocations/month
-ISBN Tracking	~80% reduction in manual tracking
-Education
-Green University of Bangladesh
+</div>
 
-BSc in Computer Science
-CGPA: 3.48 / 4.00
-October 2020 – July 2024
+## 🎓 Education
 
-Bangladesh Sweden Polytechnic Institute
+### Green University of Bangladesh
 
-Diploma in Computer Technology
-CGPA: 3.57 / 4.00
-October 2015 – April 2019
+**BSc in Computer Science**  
+October 2020 – July 2024  
+**CGPA: 3.48**
 
-GitHub
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dev-rashed-alam&show_icons=true&hide_border=true&theme=default" alt="GitHub Statistics" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rashed-alam&layout=compact&hide_border=true&theme=default" alt="Top Languages" /> </p>
-Connect
-<p align="left"> <a href="mailto:dev.rashedalam@gmail.com"> <img src="https://img.shields.io/badge/Email-dev.rashedalam%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://linkedin.com/in/dev-rashed-alam"> <img src="https://img.shields.io/badge/LinkedIn-dev--rashed--alam-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/dev-rashed-alam"> <img src="https://img.shields.io/badge/GitHub-dev--rashed--alam-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> </a> </p>
-<p align="center"> <sub>Software Engineer focused on building scalable systems and solving complex problems through thoughtful engineering.</sub> </p>
+### Bangladesh Sweden Polytechnic Institute
+
+**Diploma in Computer Technology**  
+October 2015 – April 2019  
+**CGPA: 3.57**
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:dev.rashedalam@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-dev.rashedalam%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
+
+<a href="https://www.linkedin.com/in/dev-rashed-alam">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Md.%20Rashed%20Alam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="https://github.com/dev-rashed-alam">
+  <img
+    src="https://img.shields.io/badge/GitHub-dev--rashed--alam-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
+</div>
