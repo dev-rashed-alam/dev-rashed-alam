@@ -1,99 +1,136 @@
-# 👋 Hi, I'm **Rashed Alam**  
-### 🚀 Software Engineer | React.js | Redux | JavaScript | Java| Spring Boot
+Md. Rashed Alam
 
-Frontend-focused Software Engineer with 5+ years of experience building scalable web platforms using
-React, Redux, RTK Query, and Java, Spring Boot. Adept at leading frontend teams, developing reusable
-component libraries, and integrating complex systems. Proven ability to improve development workflows
-and collaborate across product, design, and engineering teams.
+Full-Stack Engineer · Software Architect · AI Engineer
 
----
+Dhaka, Bangladesh
 
-## 🔥 **What I Do**
+I am a Full-Stack Engineer with 7+ years of professional experience designing and building production-grade software systems. My work spans backend engineering, frontend architecture, AI-powered applications, system design, and enterprise workflow automation.
 
-### 🧩 Frontend Engineering  
-- React.js, Redux Toolkit, RTK Query, TypeScript  
-- Component-driven architecture & reusable UI libraries  
-- Pixel-perfect UI from Figma  
-- Performance & scalability optimization  
+I currently work at Nitex Solutions Ltd, where I design and deliver software platforms supporting complex fashion production workflows. My recent work includes AI-powered costing, AI-assisted fashion design, CRM systems, micro-frontend architecture, and shared engineering platforms.
 
-### 🏗 Backend & System Knowledge  
-- Java, Spring Boot, Spring AI  
-- REST APIs, RAG  
-- PostgreSQL, MySQL  
+I enjoy solving complex engineering problems and building systems that are scalable, maintainable, reliable, and aligned with real business requirements.
 
-### 🛠 Tools & DevOps  
-- Git, Jira, Trello  
-- Docker, Apache, Nginx  
+About
 
----
+7+ years of professional software engineering experience
 
-## 🏢 **Professional Experience**
+Experienced in full-stack application development and system design
 
-### **Software Engineer — NITEX Solutions Ltd (2021–Present)**  
-- Leading frontend development for a large-scale RMG operating system with buyer, supplier, and internal panels.  
-- Built a modular **NPM-based component library**, reducing development time by 35%.  
-- Implemented scalable application state using **Redux Toolkit + RTK Query**.  
-- Collaborating closely with backend teams using Spring Boot & microservices.  
+Building AI-powered applications using modern AI and backend technologies
 
-### **Software Engineer — Business Accelerate BD Ltd (2019–2021)**  
-- Developed banking and publishing systems using React.js, Spring Boot, and Oracle.  
-- Built complex dynamic form engines and integrated secure API workflows.  
-- Managed production deployments and optimized system performance.
+Strong focus on Java, Spring Boot, TypeScript, React, and PostgreSQL
 
----
+Experienced in designing micro-frontend architectures and reusable component systems
 
-## ⭐ **Highlighted Projects**
+Experience leading and mentoring engineering teams
 
-### 🔹 **NITEX Operating System**  
-React.js • Redux Toolkit • Spring Boot • PostgreSQL  
-- Developed three large applications: **Admin, Customer & Factory Panels**.  
-- Enabled real-time collaboration for designers and fashion brands.  
-- Published reusable UI components as a private NPM library.
+Interested in distributed systems, software architecture, AI engineering, and developer productivity
 
----
+Professional Experience
+Full-Stack Engineer — Nitex Solutions Ltd
 
-### 🔹 **Generative AI Design Agent**  
-Gemini 2.5 Flash Image • React.js • Spring Boot  
-- Built AI-powered design generation aligned with Brand DNA.  
-- Implemented a scoring system to filter and rank high-quality design outputs.
+December 2021 – Present · Dhaka, Bangladesh
 
----
+Designed and delivered three production-grade platforms covering Admin, Buyer, and Factory workflows across the fashion production lifecycle.
 
-### 🔹 **City Bank – Smart Bank Workflow System (FinTech)**  
-React.js • Spring Boot • Oracle  
-- **Led full frontend development** for an enterprise-grade banking workflow system.  
-- Implemented secure workflows, dynamic forms, and real-time data validation.  
-- Gained deep understanding of strict FinTech processes, security, and compliance.
+Architected an AI-powered product costing platform that automated complex pricing calculations, reducing costing time by more than 90% and providing real-time cost visibility.
 
----
+Designed and productionized an AI-driven fashion design system capable of generating 100+ fashion concepts per run and ranking concepts using Brand DNA–based similarity scoring.
 
-### 🔹 **International Standard Book Number (ISBN) System**  
-React.js • PHP • Laravel • PHP 
-A system for generating and managing ISBNs for publishers and authors.  
-- Developed APIs for **QR code, barcode, and OTP integration**.  
-- Implemented **JWT authentication** and role-based authorizations.  
-- Improved system reliability by resolving bugs and optimizing workflow features.
+Reduced manual design iteration cycles by approximately 60% through AI-assisted design workflows.
 
----
+Designed and developed CRM capabilities covering customer management, order tracking, and internal operational workflows.
 
-## 🎓 **Education**
-- **BSc in CSE**, Green University of Bangladesh — *CGPA 3.48*  
-- **Diploma in Computer Technology**, BSPI — *CGPA 3.67*  
+Led and mentored a 3-member frontend engineering team, responsible for architecture, code reviews, technical decisions, and engineering standards.
 
----
+Established a micro-frontend architecture and shared component system to improve reuse, maintainability, and development velocity across product teams.
 
-## 🏅 **Certifications**
-- Best Student Award (Frontend) — BITM  
-- Java & Spring Boot — PONDIT  
+Associate Software Engineer — Business Accelerate BD Ltd
 
----
+May 2019 – November 2021 · Dhaka, Bangladesh
 
-## 📫 **Connect With Me**
-- **GitHub:** https://github.com/dev-rashed-alam  
-- **LinkedIn:** https://www.linkedin.com/in/dev-rashed-alam  
-- **Email:** dev.rashedalam@gmail.com  
+Developed frontend and backend services for a centralized financial workflow platform integrating core banking, Islamic banking, inventory, card management, and deliverables.
 
----
+Built systems supporting more than 2,000 internal users across banking and operational workflows.
 
-## ⚡ Fun Fact  
-I love building tools that automate real business workflows — from RMG production systems to secure FinTech solutions and AI-driven design tools.
+Implemented real-time workflow notifications and status tracking, reducing processing delays by approximately 60%.
+
+Designed dynamic, data-driven forms with validation and approval workflows, reducing manual processing time by approximately 70%.
+
+Developed backend services for automating the national ISBN distribution process, supporting more than 1,000 ISBN allocations per month.
+
+Integrated QR code and barcode generation for ISBN tracking and verification, reducing manual tracking effort by approximately 80%.
+
+Technical Skills
+Languages
+
+Java JavaScript TypeScript PHP
+
+Backend
+
+Spring Boot Spring AI Spring Security Laravel
+
+Frontend
+
+React Redux Redux Toolkit
+
+Databases & Search
+
+PostgreSQL MySQL MongoDB Elasticsearch
+
+DevOps & Infrastructure
+
+Docker Nginx Git Bitbucket
+
+Engineering
+
+System Design Design Patterns SOLID Principles Micro-Frontend Architecture API Design Software Architecture
+
+Areas of Expertise
+
+Software Architecture
+Designing maintainable application architectures, defining service boundaries, and establishing patterns that support long-term product evolution.
+
+AI Engineering
+Building practical AI-powered applications that integrate intelligent capabilities into real-world business workflows.
+
+Full-Stack Development
+Developing applications across the complete stack, from database and backend services to APIs and modern frontend applications.
+
+Frontend Architecture
+Designing scalable React applications, micro-frontend systems, shared component libraries, and frontend engineering standards.
+
+Enterprise Systems
+Building workflow-driven systems for financial, manufacturing, operational, and business processes.
+
+Engineering Leadership
+Mentoring engineers, conducting code reviews, making architectural decisions, and establishing engineering best practices.
+
+Selected Impact
+Area	Impact
+AI Product Costing	90%+ reduction in costing time
+AI Fashion Design	100+ concepts generated per run
+Design Workflow	~60% reduction in manual iteration
+Financial Workflows	2,000+ internal users
+Workflow Processing	~60% reduction in processing delays
+Dynamic Forms	~70% reduction in manual processing time
+ISBN Automation	1,000+ allocations/month
+ISBN Tracking	~80% reduction in manual tracking
+Education
+Green University of Bangladesh
+
+BSc in Computer Science
+CGPA: 3.48 / 4.00
+October 2020 – July 2024
+
+Bangladesh Sweden Polytechnic Institute
+
+Diploma in Computer Technology
+CGPA: 3.57 / 4.00
+October 2015 – April 2019
+
+GitHub
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dev-rashed-alam&show_icons=true&hide_border=true&theme=default" alt="GitHub Statistics" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rashed-alam&layout=compact&hide_border=true&theme=default" alt="Top Languages" /> </p>
+Connect
+<p align="left"> <a href="mailto:dev.rashedalam@gmail.com"> <img src="https://img.shields.io/badge/Email-dev.rashedalam%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://linkedin.com/in/dev-rashed-alam"> <img src="https://img.shields.io/badge/LinkedIn-dev--rashed--alam-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/dev-rashed-alam"> <img src="https://img.shields.io/badge/GitHub-dev--rashed--alam-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> </a> </p>
+<p align="center"> <sub>Software Engineer focused on building scalable systems and solving complex problems through thoughtful engineering.</sub> </p>
